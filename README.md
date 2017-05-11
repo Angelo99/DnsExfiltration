@@ -1,6 +1,6 @@
 # DnsExfiltration
 
-DnsExfiltration is C# Script designed demonstrate dns exfiltration attacks.
+A C# Script designed to demonstrate dns exfiltration attacks.
 
 
 [![Alt text](https://i.ytimg.com/vi/T4r0VxeUEfQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=T4r0VxeUEfQ)
