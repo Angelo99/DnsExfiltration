@@ -4,6 +4,9 @@ using System.IO;
 using System.Text;
 using System.Threading;
 
+//Angelo Runwatha aka @h3llwings 
+//https://h3llwings.wordpress.com
+
 namespace DnsExfiltration
 {
     class Program
